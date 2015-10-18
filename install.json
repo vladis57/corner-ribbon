@@ -23,19 +23,19 @@
 				"title": "Text color",
 				"type": "string",
 				"format": "color",
-				"default": "#000000"
+				"default": "auto"
 			},
 			"ribbon-color": {
 				"order": 3,
 				"title": "Ribbon color",
 				"type": "string",
 				"format": "color",
-				"default": "#ffffff"
+				"default": "auto"
 			},
 			"width": {
 				"order": 4,
 				"title": "Ribbon width",
-				"type": "number",
+				"type": "integer",
 				"description": "Enter a value in pixels between 200 and 500.",
 				"default": "200"
 			},
